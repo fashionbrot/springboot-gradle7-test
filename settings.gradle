@@ -1,0 +1,4 @@
+rootProject.name = 'gradle7-test'
+include 'core'
+include 'console'
+
