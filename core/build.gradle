@@ -1,7 +1,7 @@
 bootJar{
     enabled = false
 }
-jar{
+jar {
     enabled = true
 }
 dependencies {

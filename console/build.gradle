@@ -1,4 +1,13 @@
-
+bootJar{
+     enabled = true
+     archiveBaseName="console"
+     archiveVersion =  '1.0.0'
+}
+jar {
+     enabled = true
+     archiveBaseName="console"
+     archiveVersion =  '1.0.0'
+}
 dependencies {
      implementation project(":core")
 }
